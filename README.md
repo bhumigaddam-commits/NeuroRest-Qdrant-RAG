@@ -116,7 +116,9 @@ Hospital knowledge systems
 Bhumika Gaddam
 2nd year BTech Undergraduate of Computer Science | AI & Applied Research
 Focused on building accurate, explainable, retrieval-first AI systems
+
 🏁 Final Statement
+
 NeuroRest is built on a simple belief:
 In medicine, retrieval quality matters more than generation fluency.
 Qdrant makes that belief technically possible.
