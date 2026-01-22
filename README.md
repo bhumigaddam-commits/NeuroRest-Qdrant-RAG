@@ -4,6 +4,11 @@ A High-Precision Medical RAG System Powered by Qdrant
 Problem-first. Retrieval-driven. Clinically grounded.
 
 🚨 The Problem We Are Solving 
+OBSTRUCTIVE SLEEP APNEA 
+Obstructive Sleep Apnea is not a sleep disorder it is a silent public-health crisis.
+Every night, oxygen deprivation starves the brain and heart, until one night the body never wakes up.
+The death certificate says “died in sleep” — the real cause is never named.
+
 Medical information is everywhere — but reliable, relevant, and context-aware medical answers are not.
 In conditions like Obstructive Sleep Apnea (OSA):
 Symptoms are often misunderstood or ignored
