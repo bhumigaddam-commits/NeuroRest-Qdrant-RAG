@@ -4,7 +4,9 @@ A High-Precision Medical RAG System Powered by Qdrant
 Problem-first. Retrieval-driven. Clinically grounded.
 
 🚨 The Problem We Are Solving 
+
 OBSTRUCTIVE SLEEP APNEA 
+
 Obstructive Sleep Apnea is not a sleep disorder it is a silent public-health crisis.
 Every night, oxygen deprivation starves the brain and heart, until one night the body never wakes up.
 The death certificate says “died in sleep” — the real cause is never named.
@@ -19,6 +21,7 @@ Patients rely on Google.
 That gap is dangerous.
 
 💡 The Core Idea Behind NeuroRest
+
 NeuroRest is not a chatbot.
 It is not a generic LLM wrapper.
 It is a Retrieval-Augmented Generation (RAG) system designed specifically for medical accuracy, where:
@@ -26,6 +29,7 @@ Every answer is grounded in retrieved medical context — not hallucination.
 We treat retrieval as the most critical step, not generation.
 
 🧠 Why Qdrant Is the Backbone and not just a tool
+
 Medical RAG systems fail when retrieval fails.
 We chose Qdrant because medical knowledge requires:
 Dense semantic understanding, not keywords
@@ -53,6 +57,7 @@ Context-Grounded Answer Generation
 Every step is explicit, inspectable, and reproducible.
 
 🔍 What Makes NeuroRest Different
+
 Most RAG demos:
 Retrieve blindly
 Generate confidently
@@ -64,6 +69,7 @@ Separates retrieval logic from generation
 Prioritizes trust over fluency
 
 🧪 Demonstrated Capability
+
 Input Question:
 What are the symptoms of sleep apnea?
 Retrieved Context (via Qdrant):
@@ -75,6 +81,7 @@ Loud snoring, excessive daytime sleepiness, and persistent fatigue are common sy
 This answer is not invented — it is retrieval-backed.
 
 ⚙️ Tech Stack 
+
 Qdrant Cloud – Vector retrieval engine
 Sentence Transformers – Medical-grade embeddings
 Python – Core logic
@@ -83,6 +90,7 @@ No unnecessary frameworks.
 No abstraction for the sake of abstraction.
 
 🚀 How to Run 
+
 Open NeuroRest_Qdrant_VectorDB.ipynb in Google Colab
 Install dependencies (single cell)
 Paste Qdrant Cluster URL + API Key
@@ -93,6 +101,7 @@ Similarity scores
 Final grounded answer
 
 🧠 Why This Matters to Qdrant
+
 NeuroRest demonstrates:
 A real RAG use case, not a toy example
 Why vector databases are non-optional in healthcare AI
@@ -103,6 +112,7 @@ Medical literature search
 Hospital knowledge systems
 
 👩‍💻 Author
+
 Bhumika Gaddam
 2nd year BTech Undergraduate of Computer Science | AI & Applied Research
 Focused on building accurate, explainable, retrieval-first AI systems
